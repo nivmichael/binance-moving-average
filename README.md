@@ -1,2 +1,4 @@
-* Run - get MA *
-npm start
+### Run - get MA from binance
+
+
+`npm start`
