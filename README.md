@@ -1,2 +1,2 @@
-* Run - get MA
+* Run - get MA *
 npm start
